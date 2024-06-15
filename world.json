@@ -1,6 +1,6 @@
 {
   "title": "Engron",
-  "description": "A randomly generated world, embellished with a touch of creativity.",
+  "description": "<p>A randomly generated world, embellished with a touch of creativity.</p>",
   "version": "1.0.0",
   "packs": [
     {
@@ -23,6 +23,9 @@
   "safeMode": false,
   "systemVersion": "5.16.0",
   "id": "engron",
+  "url": "https://github.com/malignor/engron",
+  "manifest": "https://github.com/malignor/engron/releases/download/latest/world.json",
+  "download": "https://github.com/malignor/engron/releases/latest/download/engron.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "11.315"

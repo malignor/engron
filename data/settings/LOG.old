@@ -1,0 +1,17 @@
+2024/05/24-00:14:47.650 15e8 Recovering log #6
+2024/05/24-00:14:47.651 15e8 Level-0 table #8: started
+2024/05/24-00:14:47.652 15e8 Level-0 table #8: 2031 bytes OK
+2024/05/24-00:14:47.655 15e8 Delete type=0 #6
+2024/05/24-00:14:47.656 15e8 Delete type=3 #4
+2024/05/24-00:15:59.337 3edc Level-0 table #11: started
+2024/05/24-00:15:59.338 3edc Level-0 table #11: 2031 bytes OK
+2024/05/24-00:15:59.339 3edc Delete type=0 #9
+2024/05/24-00:15:59.345 3edc Manual compaction at level-0 from '!settings!0RuFRi2MiJ0SZyI5' @ 72057594037927935 : 1 .. '!settings!uneOMi5oNcnbF1MZ' @ 0 : 0; will stop at '!settings!o4Np8vSgv3ERXNYk' @ 17 : 1
+2024/05/24-00:15:59.345 3edc Compacting 3@0 + 0@1 files
+2024/05/24-00:15:59.346 3edc Generated table #12@0: 11 keys, 3095 bytes
+2024/05/24-00:15:59.346 3edc Compacted 3@0 + 0@1 files => 3095 bytes
+2024/05/24-00:15:59.347 3edc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/05/24-00:15:59.347 3edc Delete type=2 #5
+2024/05/24-00:15:59.347 3edc Delete type=2 #8
+2024/05/24-00:15:59.348 3edc Delete type=2 #11
+2024/05/24-00:15:59.353 3edc Manual compaction at level-0 from '!settings!o4Np8vSgv3ERXNYk' @ 17 : 1 .. '!settings!uneOMi5oNcnbF1MZ' @ 0 : 0; will stop at (end)

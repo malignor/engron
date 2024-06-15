@@ -1,0 +1,32 @@
+{
+  "title": "Engron",
+  "description": "<p>A randomly generated world, embellished with a touch of creativity.</p>",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "label": "Deities of Engron",
+      "type": "Item",
+      "name": "deities-of-engron",
+      "path": "packs/deities-of-engron",
+      "system": "pf2e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "system": "pf2e",
+  "background": "modules/image.png",
+  "coreVersion": "11.315",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "5.16.0",
+  "id": "engron",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.315"
+  },
+  "lastPlayed": "Fri Jun 14 2024 23:17:42 GMT-0400 (Eastern Daylight Time)",
+  "playtime": 96
+}

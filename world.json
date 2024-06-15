@@ -24,8 +24,8 @@
   "systemVersion": "5.16.0",
   "id": "engron",
   "url": "https://github.com/malignor/engron",
-  "manifest": "https://github.com/malignor/engron/releases/download/latest/world.json",
-  "download": "https://github.com/malignor/engron/releases/latest/download/engron.zip",
+  "manifest": "https://github.com/malignor/engron/world.json",
+  "download": "https://github.com/malignor/engron/archive/refs/tags/worldstate.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "11.315"
